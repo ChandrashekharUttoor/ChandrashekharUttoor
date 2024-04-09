@@ -9,9 +9,7 @@
 - 💬 Ask me about **Java, Python and Web Technologies**
 
 - 📫 How to reach me **chandrashekharuttoor369@gmail.com**
-- 
-- 👨‍💻 All of my projects are available at [www.google.com](www.google.com)
-
+  
 - ⚡ Fun fact **I am Enthusiastic**
 
 <h3 align="left">Connect with me:</h3>
