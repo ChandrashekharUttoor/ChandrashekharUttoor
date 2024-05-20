@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekharuttoor&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekharuttoor" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and Python**
+- 🌱 I’m currently learning **JavaScript and React JS**
 
-- 💬 Ask me about **Java, Python and Web Technologies**
+- 💬 Ask me about **Java and Web Technologies**
 
 - 📫 How to reach me **chandrashekharuttoor369@gmail.com**
   
